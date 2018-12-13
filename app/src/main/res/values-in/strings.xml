@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Katalog Film Ver.3.0</string>
+    <string name="nav_header_title">Andrew Prasetyo Herka</string>
+    <string name="nav_header_subtitle">andrewprasetio@gmail.com</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="title_activity_home_tab_fragment">HomeTabFragment</string>
+    <string name="section_format">Halo dunia dari Section: %1$d</string>
+
+    <!-- TODO: Hapus tau ubah placeholder text ini-->
+
+    <!-- Untuk Localization-->
+    <string name="find_movie">Masukan Judul Film</string>
+    <string name="find">CARI</string>
+    <string name="find_title">CARI FILM</string>
+    <string name="title">Judul</string>
+    <string name="overview">Deskripsi</string>
+    <string name="date_release">Tanggal Tayang</string>
+    <string name="now_playing">SAAT INI</string>
+    <string name="upcoming">AKAN DATANG</string>
+    <string name="action_settings_language">Pengaturan Bahasa</string>
+    <string name="action_settings_notification">Pengaturan Notifikasi</string>
+    <string name="navigation_drawer_open">Buka Drawer Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Drawer Navigasi</string>
+    <string name="home">Beranda</string>
+    <string name="findmovie">Cari Film</string>
+
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="hello_blank_fragment">Halo Fragment Kosong</string>
+    <string name="movieTitle">Judul Film</string>
+    <string name="movieOverview">Deskripsi</string>
+    <string name="releaseDate">Tanggal Tayang : \n%s</string>
+    <string name="favorite">Favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="image_movie">Judul Film</string>
+    <string name="vote">Memberikan Suara : %s</string>
+    <string name="vote_is_not_available">Pemberian suara tidak tersedia</string>
+    <string name="rating">Penilaian: %s/10</string>
+    <string name="rating_is_not_available">Penilaian Tidak Tersedia</string>
+    <string name="date_of_release">Tanggal Tayang</string>
+    <string name="to_be_confirmed">Dalam Konfirmasi</string>
+    <string name="title_activity_search">Aktifitas Cari</string>
+    <string name="search_hint">Cari Film disini</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="search_title">Cari Film</string>
+    <string name="search_hint_result">Ketemu %1s Film dengan query %2s</string>
+    <string name="Preferences">Preferensi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="search">Cari</string>
+    <string name="appwidget_text">MOVIE BANNER</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="everyday_popup">Mari buka aplikasi movie catalogue untuk menemukan informasi terbaru mengenai film favorit anda!</string>
+    <string name="repeatingReminder">Reminder Harian</string>
+    <string name="pesan_rilis_movie">%s Dimainkan di bioskop mulai sekarang, mari tonton bersama!</string>
+</resources>

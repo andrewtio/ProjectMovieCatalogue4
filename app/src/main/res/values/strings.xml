@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ProjectMovieCatalogue3</string>
+    <string name="nav_header_title">Andrew Prasetyo Herka</string>
+    <string name="nav_header_subtitle">andrewprasetio@gmail.com</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="title_activity_home_tab_fragment">HomeTabFragment</string>
+    <string name="section_format">Hello World from Section: %1$d</string>
+
+    <!-- TODO: Hapus untuk ubah placeholder text ini-->
+
+    <!-- Untuk Localization-->
+    <string name="find_movie">Input Movie Name</string>
+    <string name="find">SEARCH</string>
+    <string name="find_title">SEARCH MOVIE</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="date_release">Date Release</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="upcoming">COMING SOON</string>
+    <string name="action_settings_language">Setting Language</string>
+    <string name="action_settings_notification">Setting Notification</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="home">Home</string>
+    <string name="findmovie">Find Movie</string>
+
+    <!-- TODO: Hapus atau ubah teks placeholder ini -->
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="movieTitle">MovieTitle</string>
+    <string name="movieOverview">Overview</string>
+    <string name="releaseDate">Release Date :\n %s</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="image_movie">Image Movie</string>
+    <string name="vote">Total Vote : %s</string>
+    <string name="vote_is_not_available">Vote is not available</string>
+    <string name="rating">Rating: %s/10</string>
+    <string name="rating_is_not_available">Rating is not available</string>
+    <string name="date_of_release">Date of Release</string>
+    <string name="to_be_confirmed">To be Confirmed</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="search_hint">Search Movie Here</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="search_title">Search Movie</string>
+    <string name="search_hint_result">Found %1s movies with Title %2s</string>
+    <string name="Preferences">Preferences</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="appwidget_text">MOVIE BANNER</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="everyday_popup">Open Movie Catalogue App to get newest info of your favorite movies</string>
+    <string name="repeatingReminder">Daily Reminder</string>
+    <string name="pesan_rilis_movie">%s Played from on Today, let\'s watch it together!</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorite">Remove From Favorite</string>
+</resources>

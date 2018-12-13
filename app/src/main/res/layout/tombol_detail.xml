@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/tombol_tambah_ke_favorit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:layout_gravity="center"
+        android:text="@string/add_to_favorites"
+        android:textColor="@color/colorBlack"
+        android:visibility="visible"
+        android:gravity="center"
+        android:onClick="saatTombolDiClick"/>
+
+    <Button
+        android:id="@+id/tombol_hapus_dari_favorit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/remove_from_favorite"
+        android:background="@color/colorAccent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/colorBlack"
+        android:visibility="gone"
+        android:onClick="saatTombolDiClick"/>
+
+</LinearLayout>
